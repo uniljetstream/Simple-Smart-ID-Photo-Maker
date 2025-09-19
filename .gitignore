@@ -150,4 +150,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# vscode
+/.vscode/
+
 # End of https://www.toptal.com/developers/gitignore/api/c++,opencv,windows,linux,cmake,qt
